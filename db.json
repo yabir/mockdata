@@ -1,0 +1,19 @@
+{
+    "page": 1,
+    "total_results": 2,
+    "total_pages": 1,
+    "results": [
+      {
+        "category": "Sueldo",
+        "id": 1,
+        "date": "2020-04-26",
+        "amount": 100
+      },
+      {
+        "category": "Libro",
+        "id": 1,
+        "date": "2020-04-26",
+        "amount": -83.89
+      }
+    ]
+}
